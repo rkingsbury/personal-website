@@ -1,6 +1,6 @@
 ---
 title: "Osmotic ballasts enhance faradaic efficiency in closed-loop, membrane-based energy systems"
-date: 2017-01-01
+date: 2017-01-11
 publishDate: 2019-10-10T01:35:16.065783Z
 authors: ["Ryan S. Kingsbury", "Orlando Coronell"]
 publication_types: ["2"]

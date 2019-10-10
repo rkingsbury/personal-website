@@ -1,6 +1,6 @@
 ---
 title: "Impact of natural organic matter and inorganic solutes on energy recovery from five real salinity gradients using reverse electrodialysis"
-date: 2017-01-01
+date: 2017-07-19
 publishDate: 2019-10-10T01:35:16.084257Z
 authors: ["R.S. Kingsbury", "F. Liu", "S. Zhu", "C. Boggs", "M.D. Armstrong", "D.F. Call", "O. Coronell"]
 publication_types: ["2"]

@@ -1,6 +1,6 @@
 ---
 title: "Influence of Water Uptake, Charge, Manning Parameter and Contact Angle on Water and Salt Transport in Commercial Ion Exchange Membranes"
-date: 2019-01-01
+date: 2019-09-17
 publishDate: 2019-10-10T01:35:16.047800Z
 authors: ["Ryan S. Kingsbury", "K. Bruning", "Shan Zhu", "Sophie Flotron", "Cass T. Miller", "Orlando Coronell"]
 publication_types: ["2"]
