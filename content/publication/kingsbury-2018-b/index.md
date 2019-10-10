@@ -1,6 +1,6 @@
 ---
 title: "Microstructure determines water and salt permeation in commercial ion exchange membranes"
-date: 2018-01-01
+date: 2018-10-25
 publishDate: 2019-10-10T01:35:16.056841Z
 authors: ["Ryan S. Kingsbury", "Shan Zhu", "Sophie Flotron", "Orlando Coronell"]
 publication_types: ["2"]
