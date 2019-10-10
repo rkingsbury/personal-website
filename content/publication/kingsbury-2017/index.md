@@ -1,6 +1,6 @@
 ---
 title: "Junction potentials bias measurements of ion exchange membrane permselectivity"
-date: 2018-03-15
+date: 2017-10-16
 publishDate: 2019-10-10T01:35:16.075216Z
 authors: ["Ryan S. Kingsbury", "Sophie Flotron", "Shan Zhu", "Douglas F. Call", "Orlando Coronell"]
 publication_types: ["3"]
