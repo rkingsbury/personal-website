@@ -18,27 +18,65 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoctoral Researcher"
+  company = "The Materials Project, Lawrence Berkeley National Laboratory"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Berkeley, California"
+  date_start = "2019-07-15"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+ # description = """
+ # Responsibilities include:
+ # 
+ # * Analysing
+ # * Modelling
+ # * Deploying
+ # """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Senior Engineering Research Consultant"
+  company = "Membrion"
+  company_url = "http://www.membrion.com"
+  location = "Seattle, Washington"
+  date_start = "2018-11-01"
+  date_end = ""
 
+[[experience]]
+  title = "Research Assistant"
+  company = "University of North Carolina at Chapel Hill"
+  company_url = "https://sph.unc.edu/envr/environmental-sciences-and-engineering-home/"
+  location = "Chapel Hill, North Carolina"
+  date_start = "2015-07-01"
+  date_end = "2019-05-29"
+
+[[experience]]
+  title = "Founder and CEO"
+  company = "Bluecell Energy LLC"
+  company_url = ""
+  location = "Research Triangle Park, North Carolina"
+  date_start = "2013-07-13"
+  date_end = "2015-06-01"
+
+[[experience]]
+  title = "Environmental Engineer"
+  company = "CDM Smith, Inc."
+  company_url = "https://www.cdmsmith.com/"
+  location = "Raleigh, North Carolina"
+  date_start = "2010-06-10"
+  date_end = "2013-07-13"
+
+[[experience]]
+  title = "Research Assistant"
+  company = "University of North Carolina at Chapel Hill"
+  company_url = "https://sph.unc.edu/envr/environmental-sciences-and-engineering-home/"
+  location = "Chapel Hill, North Carolina"
+  date_start = "2008-08-01"
+  date_end = "2010-05-01"
+
+[[experience]]
+  title = "Engineer-in-Training"
+  company = "CDM"
+  company_url = "https://www.cdmsmith.com/"
+  location = "Austin, Texas"
+  date_start = "2007-06-01"
+  date_end = "2008-07-15"
 +++
