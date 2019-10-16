@@ -15,21 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "tint-slash"
+  icon_pack = "fas"
+  name = "Membrane separations"
+  description = ""  
+
+[[feature]]
+  icon = "car-battery"
+  icon_pack = "fas"
+  name = "Electrochemistry"
+  description = ""
+
+[[feature]]
+  icon = "water"
+  icon_pack = "fas"
+  name = "Water Treatment"
+  description = ""  
+
+[[feature]]
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Python"
+  description = ""
 
 +++
