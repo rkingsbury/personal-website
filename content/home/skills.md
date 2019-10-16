@@ -15,21 +15,15 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "tint-slash"
+  icon = "water"
   icon_pack = "fas"
-  name = "Membrane separations"
+  name = "Water treatment"
   description = ""  
 
 [[feature]]
   icon = "car-battery"
   icon_pack = "fas"
   name = "Electrochemistry"
-  description = ""
-
-[[feature]]
-  icon = "water"
-  icon_pack = "fas"
-  name = "Water Treatment"
   description = ""  
 
 [[feature]]
