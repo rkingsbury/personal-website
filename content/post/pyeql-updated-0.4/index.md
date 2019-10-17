@@ -1,5 +1,5 @@
 ---
-title: "Announcing pyEQL – a Python library for solution chemistry"
+title: "pyEQL updated to v0.4"
 draft: false
 date: 2016-06-26
 publishDate: 2019-10-10T01:35:16.075216Z
@@ -12,7 +12,8 @@ Earlier this week I released [pyEQL v0.4](https://github.com/rkingsbury/pyEQL/re
 This update contains a couple of important bugfixes related to osmotic pressure and activity correction calculations for salts with one or more multivalent ions, and greatly expands the documentation of the calculation methods pyEQL employs. 
 
 #### Features
-#####Dielectric Constant Calculation
+
+##### Dielectric Constant Calculation
 I've added a few new features, including the ability to calculate the dielectric constant of a salt solution based on [this empirical model](https://dx.doi.org/10.1016/j.fluid.2014.05.037). For example:
 ```
 >>> s1=pyEQL.Solution([['Mg+2','1 mol/kg'],['Cl-','2 mol/kg']])
