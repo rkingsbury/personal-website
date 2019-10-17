@@ -6,7 +6,7 @@ publishDate: 2019-10-10T01:35:16.075216Z
 authors: ["Ryan S. Kingsbury"]
 ---
 
-In the last few weeks my group's research on [salinity gradient a.k.a. "blue" energy](../untapped-clean-energy/index.md) has generated some press. It's very gratifying to see people outside of my field getting interested in these emerging clean energy technologies!
+In the last few weeks my group's research on [salinity gradient a.k.a. "blue" energy](../untapped-clean-energy/) has generated some press. It's very gratifying to see people outside of my field getting interested in these emerging clean energy technologies!
 
 Take your pick among the links below to learn more :
 

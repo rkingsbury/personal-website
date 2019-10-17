@@ -64,7 +64,7 @@ At this point I've equated the activity of dissolved $NaCl$ with the concentrati
 
 ### Working around single-ion activity coefficients
 
-Since it's not possible to measure $\gamma$ for an individual ion; we can only measure the [geometric mean](https://en.wikipedia.org/wiki/Geometric_mean) activity of the two ions, which is defined (for $NaCl$) as
+Since it's not possible to measure $\gamma$ for an individual ion; we can only measure the [geometric mean](https://en.wikipedia.org/wiki/Geometric_mean) activity of the two ions, which is defined (for $NaCl$ ) as
 
 $$ \begin{equation} a\_\pm = a\_{NaCl}^{1/2} = (m\_{Na^+} m\_{Cl^-} \gamma\_{Na^+}\gamma\_{Cl^-})^{1/2} \end{equation}$$
 
