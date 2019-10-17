@@ -1,6 +1,7 @@
 ---
 title: "How to calculate salt activity"
 draft: false
+markup: mmark
 date: 2016-09-29
 publishDate: 2019-10-10T01:35:16.075216Z
 authors: ["Ryan S. Kingsbury"]
@@ -66,15 +67,15 @@ At this point I've equated the activity of dissolved $NaCl$ with the concentrati
 
 Since it's not possible to measure $\gamma$ for an individual ion; we can only measure the [geometric mean](https://en.wikipedia.org/wiki/Geometric_mean) activity of the two ions, which is defined (for $NaCl$) as
 
-$$ \begin{equation} a\_\pm = a\_{NaCl}^{1/2} = (m\_{Na^+}m\_{Cl^-}\gamma\_{Na^+}\gamma\_{Cl^-})^{1/2} \end{equation}$$
+$$ \begin{equation} a\_\pm = a\_{NaCl}^{1/2} = (m\_{Na^+} m\_{Cl^-} \gamma\_{Na^+}\gamma\_{Cl^-})^{1/2} \end{equation}$$
 
 Correspondingly, the *mean ionic activity coefficient* and *mean ionic molality* are defined as
 
-$$ \begin{equation} \gamma\_\pm = (\gamma\_{Na^+}\gamma\_{Cl^-})^{1/2} \end{equation}$$
+$$ \begin{equation} \gamma\_\pm = (\gamma\_{Na^+} \gamma\_{Cl^-})^{1/2} \end{equation}$$
 
 and
 
-$$ \begin{equation} m\_\pm = (m\_{Na^+}m\_{Cl^-})^{1/2} \end{equation}$$
+$$ \begin{equation} m\_\pm = (m\_{Na^+} m\_{Cl^-})^{1/2} \end{equation}$$
 
 So, for a monovalent salt like $NaCl$, once I find the mean ionic activity coefficient, I can write the chemical potential of the salt as
 
