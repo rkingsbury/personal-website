@@ -1,7 +1,6 @@
 ---
 title: "How to calculate salt activity"
 draft: false
-markup: mmark
 date: 2016-09-29
 publishDate: 2019-10-10T01:35:16.075216Z
 authors: ["Ryan S. Kingsbury"]
