@@ -1,6 +1,6 @@
 ---
 title: "The untapped source of clean energy you’ve never heard of"
-draft: true
+draft: false
 date: 2016-07-05
 publishDate: 2019-10-10T01:35:16.075216Z
 authors: ["Ryan S. Kingsbury"]

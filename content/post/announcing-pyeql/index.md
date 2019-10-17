@@ -1,6 +1,6 @@
 ---
 title: "Announcing pyEQL – a Python library for solution chemistry"
-draft: true
+draft: false
 date: 2016-01-23
 publishDate: 2019-10-10T01:35:16.075216Z
 authors: ["Ryan S. Kingsbury"]
