@@ -8,7 +8,7 @@ authors: ["Ryan S. Kingsbury"]
 
 Earlier today energy storage startup [Aquion Energy](http://aquionenergy.com/) announced that the cost of its breakthrough saltwater battery technology [should fall by 50% in as little as 2-4 years](http://energystoragereport.info/aquion-cuts-cost-reduction-target-eight-years/), instead of the 10 they originally predicted. That's an incredibly confident statement to make for a company in one of the world's most challenging and capital-intensive markets. As always with energy innovations, time will tell whether they can achieve this without running out of money, but for now the signs are promising. 
 
-Aquion's announcement prompted me to revisit a TEDx talk from 2012 by Jay Whitacre, the inventor of Aquion's battery technology, that I originally saw shortly after starting my own company to develop a saltwater battery based on ["blue energy"](http://blog.ryankingsbury.com/the-untapped-source-of-clean-energy-youve-never-heard-of/) principles. In it, Dr. Whitacre describes the rational, cost-first approach he used to create a new battery that can be brought to market in less than 10 years.
+Aquion's announcement prompted me to revisit a TEDx talk from 2012 by Jay Whitacre, the inventor of Aquion's battery technology, that I originally saw shortly after starting my own company to develop a saltwater battery based on ["blue energy"](../untapped-clean-energy/) principles. In it, Dr. Whitacre describes the rational, cost-first approach he used to create a new battery that can be brought to market in less than 10 years.
 
 
 >"Do things to the minimum necessary resolution to get you to the next step" -Jay Whitacre
