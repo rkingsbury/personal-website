@@ -8,8 +8,6 @@ authors: ["Ryan S. Kingsbury"]
 
 I'm pleased to announce that with the recent v0.3 release, one of my side projects - pyEQL - has matured enough that I think others might find it useful. So, it's time for an official announcement!
 
-![pyeql-demo-1](/content/images/2017/10/pyeql-demo-1.png)
-
 ### What is it?
 <a href="https://github.com/rkingsbury/pyEQL">pyEQL</a> is a Python library that performs calculations related to solution chemistry. It can be used interactively from a command line (as in the image above) or integrated into more complex computer models that require information about chemicals in aqueous solution. When I need to do "back of the envelope" calculations to test out ideas related to my work on desalination and salinity-gradient energy processes, <strong>pyEQL is my "envelope."</strong>
 

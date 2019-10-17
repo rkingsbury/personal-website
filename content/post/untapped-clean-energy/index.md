@@ -6,7 +6,7 @@ publishDate: 2019-10-10T01:35:16.075216Z
 authors: ["Ryan S. Kingsbury"]
 ---
 
-####Blue Energy makes electricity from saltwater
+#### Blue Energy makes electricity from saltwater
 
 Emerging “blue energy” technologies are on the verge of unlocking a new way to generate electricity from water.
 
@@ -25,7 +25,7 @@ There are a variety of ways to turn this voltage into electricity, some of which
 
 In reverse electrodialysis, salty water is separated from the fresh water by special materials called ion exchange membranes that allow either positively or negatively charged ions to pass through them. The ions in the saltwater try to diffuse into the freshwater on the opposite sides of each membrane, but because each membrane blocks one type of ion, the system forces all of the positive ions to go one way, while the negative ions go the other (see diagram below). 
 
-![reverse electrodialysis diagram](/content/images/2017/10/RED.png)
+![reverse electrodialysis diagram](RED.png)
 
 This organized motion of ions allows reverse electrodialysis to generate direct current electricity from the mixing of the two waters. It requires no chemicals, generates no emissions, and has no moving parts. That means that a power plant built in a coastal area should have a minimal environmental impact. After all, the river and seawater are going to mix anyway.
 
@@ -35,7 +35,7 @@ A [recent analysis](http://www.sciencedirect.com/science/article/pii/S1364032116
 
 Scientists and engineers around the world are working to deliver on this promise of stable, “base-load” renewable energy from saltwater. In the last 5-7 years, reverse electrodialysis has become a vibrant area of research in both academic labs and private industry, as you can see by the explosive growth in scientific and patent citations below. [Fujifilm](http://www.fujifilmmembranes.com/blue-energy-technology), the largest company to back the technology, has even launched a new membrane development initiative to drive down blue energy's costs.
 
-![reverse electrodialysis citation graph](/content/images/2017/10/Citation_chart.png)
+![reverse electrodialysis citation graph](Citation_chart.png)
 
 *Data compiled July 4, 2016 from [Scopus](https://www.scopus.com/home.uri) and [Google Patents](https://patents.google.com/?q=%22reverse+electrodialysis%22&after=20010101)*
 
