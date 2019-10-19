@@ -40,10 +40,6 @@ date_format = "Jan 2006"
   date_start = "2018-11-01"
   date_end = ""
   description = """Guide development of a low-cost, ceramic ion exchange membrane.
-  
-  * Identified relevant applications and potential customers
-  * Trained technical team in electrodialysis test procedures
-  * Reviewed experimental data to inform manufacturing scale-up
 """
 
 [[experience]]
