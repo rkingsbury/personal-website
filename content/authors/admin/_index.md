@@ -24,6 +24,7 @@ interests:
 - Membrane separation processes
 - Ion-selective materials
 - Electrochemical technologies
+- Computational materials discovery
 
 education:
   courses:
@@ -79,4 +80,4 @@ email: ""
 #- Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am an engineer and scientist researching materials for more efficient water and energy production. I have expertise in water treatment, membrane desalination, ion exchange, and electrochemistry, and am determined to accelerate development of these technologies by combining smart experimental design with cutting-edge computational tools.
