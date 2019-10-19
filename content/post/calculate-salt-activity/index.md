@@ -16,7 +16,7 @@ I've been unable to find a complete explanation of how to use activity coefficie
 
 The thermodynamic quantity underlying almost all chemical calculations is the **chemical potential**, and calculating it is the reason determining the activity is so important. The chemical potential $\mu$ of any substance is given by
 
-$$ \begin{equation} \mu = \mu^o + RT \ln a \end{equation}$$
+$$ \begin{equation} \mu = \mu^o + RT \ln a \end{equation}\label{eq1}$$
 
 where $\mu^o$ is the chemical potential at some standard state, $a$ is the activity or "effective concentration," $R$ is the gas constant, and $T$ is the temperature. The activity is related to the actual concentration $m$ by an activity coefficient $\gamma$:
 
