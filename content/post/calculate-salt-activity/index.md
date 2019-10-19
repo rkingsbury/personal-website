@@ -1,7 +1,6 @@
 ---
 title: "How to calculate salt activity"
 draft: false
-markup: mmark
 date: 2016-09-29
 publishDate: 2019-10-10T01:35:16.075216Z
 authors: ["Ryan S. Kingsbury"]
@@ -15,13 +14,13 @@ I've been unable to find a complete explanation of how to use activity coefficie
 
 ### Chemical Potential
 
-The thermodynamic quantity underlying almost all chemical calculations is the **chemical potential**, and calculating it is the reason determining the activity is so important. The chemical potential $$ \mu $$ of any substance is given by
+The thermodynamic quantity underlying almost all chemical calculations is the **chemical potential**, and calculating it is the reason determining the activity is so important. The chemical potential $\mu$ of any substance is given by
 
-$$ \begin{equation} \mu = \mu^o + RT \ln a \end{equation}$$
+1) $$ \begin{equation} \mu = \mu^o + RT \ln a \end{equation}$$
 
 where $\mu^o$ is the chemical potential at some standard state, $a$ is the activity or "effective concentration," $R$ is the gas constant, and $T$ is the temperature. The activity is related to the actual concentration $m$ by an activity coefficient $\gamma$:
 
-$$ \begin{equation} a = m \gamma \end{equation}$$
+1. $$ \begin{equation} a = m \gamma \end{equation}$$
 
 $\gamma$ is an empirical correction factor that you can look up in a table or calculate with a model like [pyEQL](linke to announcement). It's important to use a $\gamma$ and a concentration based on the same scale. In these examples I'm going to use the molal (mol/kg) scale, and denote the concentrations with $m$. You could instead use the molar (mol/L) scale, in which case it's conventional to use $C$ for concentration.
 
@@ -29,11 +28,11 @@ $\gamma$ is an empirical correction factor that you can look up in a table or ca
 
 I'm interested in the chemical potential of salts dissolved in water, and I'll start with a monvalent salt like NaCl. Applying equation 1 gives
 
-$$ \begin{equation} \mu_{NaCl} = \mu_{NaCl}^o + RT \ln a_{NaCl}  \end{equation}$$
+$$ \begin{equation} \mu\_{NaCl} = \mu\_{NaCl}^o + RT \ln a\_{NaCl}  \end{equation}$$
 
 and substituting equation 2 for $a\_{NaCl}$, we have
 
-$$ \begin{equation} \mu_{NaCl} = \mu_{NaCl}^o + RT \ln m_{NaCl} \gamma_{NaCl} \end{equation}$$
+$$ \begin{equation} \mu\_{NaCl} = \mu\_{NaCl}^o + RT \ln m\_{NaCl} \gamma\_{NaCl} \end{equation}$$
 
 Now, for reasons that are beyond the scope of this post, $\gamma\_{NaCl}$ is *not* the activity coefficient you can look up in tables. What we *can* look up is the mean ionic activity coefficient, which is related to the concentrations of individual ions. So, I need to relate the salt concentration $m\_{NaCl}$ to the individual ion concentrations.
 
@@ -65,17 +64,17 @@ At this point I've equated the activity of dissolved $NaCl$ with the concentrati
 
 ### Working around single-ion activity coefficients
 
-Since it's not possible to measure $$ \gamma $$ for an individual ion; we can only measure the [geometric mean](https://en.wikipedia.org/wiki/Geometric_mean) activity of the two ions, which is defined (for $$ NaCl $$ ) as
+Since it's not possible to measure $\gamma$ for an individual ion; we can only measure the [geometric mean](https://en.wikipedia.org/wiki/Geometric_mean) activity of the two ions, which is defined (for $NaCl$ ) as
 
-$$ \begin{equation} a\_\pm = a\_{NaCl}^{1/2} = (m\_{Na^+} m\_{Cl^-} \gamma\_{Na^+}\gamma\_{Cl^-})^{1/2} \end{equation}$$
+$$ \begin{equation} a\_\pm = a\_{NaCl}^{1\/2} = (m\_{Na^+} m\_{Cl^-} \gamma\_{Na^+}\gamma\_{Cl^-})^{1\/2} \end{equation}$$
 
 Correspondingly, the *mean ionic activity coefficient* and *mean ionic molality* are defined as
 
-$$ \begin{equation} \gamma\_\pm = (\gamma\_{Na^+} \gamma\_{Cl^-})^{1/2} \end{equation}$$
+$$ \begin{equation} \gamma\_\pm = (\gamma\_{Na^+} \gamma\_{Cl^-})^{1\/2} \end{equation}$$
 
 and
 
-$$ \begin{equation} m\_\pm = (m\_{Na^+} m\_{Cl^-})^{1/2} \end{equation}$$
+$$ \begin{equation} m\_\pm = (m\_{Na^+} m\_{Cl^-})^{1\/2} \end{equation}$$
 
 So, for a monovalent salt like $NaCl$, once I find the mean ionic activity coefficient, I can write the chemical potential of the salt as
 
