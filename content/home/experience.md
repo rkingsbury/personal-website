@@ -39,7 +39,12 @@ date_format = "Jan 2006"
   location = "Seattle, Washington"
   date_start = "2018-11-01"
   date_end = ""
-  description = "Guide development of a low-cost, ceramic ion exchange membrane."
+  description = "Guide development of a low-cost, ceramic ion exchange membrane.
+  
+  * Identified relevant applications and potential customers
+  * Trained technical team in electrodialysis test procedures
+  * Reviewed experimental data to inform manufacturing scale-up
+"
 
 [[experience]]
   title = "Research Assistant"
@@ -48,7 +53,12 @@ date_format = "Jan 2006"
   location = "Chapel Hill, North Carolina"
   date_start = "2015-07-01"
   date_end = "2019-05-29"
-  description="Researched selective mass transport in ion exchange membranes."
+  description="Researched selective mass transport in ion exchange membranes.
+  
+  * Performed comprehensive characterization of commercial ion exchange membranes
+  * Developed an analytical model to predict membrane permselectivity
+  * Demonstrated a novel membrane chemistry incorporating non-covalent crosslinking  
+  "
 
 [[experience]]
   title = "Founder and CEO"
@@ -57,7 +67,12 @@ date_format = "Jan 2006"
   location = "Research Triangle Park, North Carolina"
   date_start = "2013-07-13"
   date_end = "2015-06-01"
-  description = "Developed rechargeable batteries based on saltwater."
+  description = "Developed rechargeable batteries based on saltwater.
+  
+  * Invented and reduced to practice a novel energy storage technology based on saltwater
+  * Worked with co-founder and two MBA students to analyze system cost-effectiveness relative to market opportunity
+  * Oversaw design, materials selection, fabrication, and testing of three laboratory-scale prototypes
+  "
 
 [[experience]]
   title = "Environmental Engineer"
@@ -66,7 +81,12 @@ date_format = "Jan 2006"
   location = "Raleigh, North Carolina"
   date_start = "2010-06-10"
   date_end = "2013-07-13"
-  description = "Planned and designed drinking water and wastewater infrastructure."
+  description = "Planned and designed drinking water and wastewater infrastructure.
+  
+  * Conducted bench-scale experiments to evaluate treated water corrosivity to lead, copper, and iron
+  * Analyzed feasibility of a biogas-fueled combined heat and power engine at a wastewater treatment plant
+  * Performed shop drawing reviews for mechanical equipment for a new water treatment plant
+  "
 
 [[experience]]
   title = "Research Assistant"
@@ -75,7 +95,13 @@ date_format = "Jan 2006"
   location = "Chapel Hill, North Carolina"
   date_start = "2008-08-01"
   date_end = "2010-05-01"
-  description = "Studied ozone and magnetic ion exchange (MIEX) for brackish water treatment."
+  description = "Studied ozone and magnetic ion exchange (MIEX) for brackish water treatment.
+
+  * Investigated the use of magnetic ion exchange resin and ozone to reduce disinfection by-product formation
+  * Characterized samples using physical and chemical water quality analysis, gas chromatography, ion chromatography, and excitation-emission spectroscopy
+  * Oversaw multiple international projects as president of Engineers Without Borders chapter
+
+  "
 
 [[experience]]
   title = "Engineer-in-Training"
@@ -84,5 +110,9 @@ date_format = "Jan 2006"
   location = "Austin, Texas"
   date_start = "2007-06-01"
   date_end = "2008-07-15"
-  description = "Planned and designed drinking water and wastewater infrastructure."
+  description = "Planned and designed drinking water and wastewater infrastructure.
+  
+  * Designed chemical storage and pumping systems for a 42 MGD drinking water treatment facility
+  * Analyzed a proposed water transmission main alignment for conflicts with buried utilities
+  * Assessed the condition of a 50 MGD water treatment facility, identified capacity bottlenecks, and made recommendations for expansion"
 +++
