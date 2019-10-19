@@ -18,7 +18,7 @@ organizations:
   url: "https://materialsproject.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an engineer/scientist researching advanced technology for water purification and clean energy production. I enjoy tinerking with computers as a hobby, and try to apply what I learn about modern programming tools to my work. 
+bio: Ryan is an engineer and scientist working to accelerate development of advanced materials for water purification and clean energy production. 
 
 interests:
 - Membrane separation processes
