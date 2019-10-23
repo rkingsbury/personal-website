@@ -12,7 +12,7 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "CV"
-    url = "files/Kingsbury-CV-10-2019-web.pdf"
+    url = "files/Kingsbury-CV-oct-2019-web.pdf"
     weight = 15
 
 [[main]]
