@@ -1,6 +1,6 @@
 ---
 title: "Modeling and validation of concentration dependence of ion exchange membrane permselectivity: Significance of convection and Manning's counter-ion condensation theory"
-date: 2020-06-29
+date: 2020-11-01
 publishDate: 2020-06-29T01:35:16.056841Z
 authors: ["Ryan S. Kingsbury", "Orlando Coronell"]
 publication_types: ["2"]
