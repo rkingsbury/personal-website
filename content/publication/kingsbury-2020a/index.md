@@ -1,0 +1,13 @@
+---
+title: "Comparison of water and salt transport properties of ion exchange, reverse osmosis, and nanofiltration membranes for desalination and energy applications"
+date: 2020-03-20
+publishDate: 2020-10-10T01:35:16.056841Z
+authors: ["Ryan S. Kingsbury", "Jingbo Wang", "Orlando Coronell"]
+publication_types: ["2"]
+abstract: "Reverse osmosis (RO), nanofiltration (NF), and ion exchange (IX) membranes are becoming increasingly important in water treatment, waste recovery, industrial product purification, renewable energy generation, and energy storage. While all three types of membranes are charged, dense polymers, each has historically been characterized using different methods relevant to their respective applications. This bifurcated characterization approach has obscured similarities among dense membranes that could potentially be exploited to advance membrane development. For example, we recently showed that the water and salt transport properties of commercial IX membranes, which are not frequently reported, are generally on the same order of magnitude as those of other desalination polymers. These findings beg the question whether IX membrane polymers might offer any advantages over RO/NF membranes for pressure-driven desalination, and invite further comparisons among the two different classes of membrane polymers (e.g., IX and RO/NF membranes). In this study, we used the solution-diffusion model as a common framework to compare the permeability, partition and diffusion coefficients, water permeance, and salt rejection of twenty commercial IX membranes with those of the active layers of commercial RO/NF membranes and other membrane polymers. Our analysis shows that the characteristics of all membranes fall within similar ranges, despite differences in intended use (e.g. pressure-driven vs. electric field-driven separations). Thus, the low water permeance of IX membranes compared to RO/NF membranes can be explained primarily by differences in thickness rather than permeability. We also show that IX membranes have excellent water/salt partitioning selectivity, while RO/NF active layers have superior diffusion selectivity, and discuss the implications of this comparison for ongoing membrane research."
+featured: true
+publication: "*Journal of Membrane Science*"
+url_pdf: "https://doi.org/10.1016/j.memsci.2020.117998"
+doi: "10.1016/j.memsci.2020.117998"
+---
+
