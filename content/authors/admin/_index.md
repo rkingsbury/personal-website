@@ -14,8 +14,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: The Materials Project, Lawrence Berkeley National Laboratory
-  url: "https://materialsproject.org/"
+- name: Persson Group, Lawrence Berkeley National Laboratory
+  url: "https://perssongroup.lbl.gov/people.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ryan is an engineer and scientist working to accelerate development of advanced materials for water purification and clean energy production. 

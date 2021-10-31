@@ -24,13 +24,14 @@ date_format = "Jan 2006"
   location = "Berkeley, California"
   date_start = "2019-07-15"
   date_end = ""
-  description = "Integrate advanced density functional thoery (DFT) model into pymatgen code."
- # Responsibilities include:
- # 
- # * Analysing
- # * Modelling
- # * Deploying
- # """
+  description = """Conduct experimental and computational materials research
+  
+  * Develop software for high-throughput density functional theory and molecular dynamics simulations
+  * Use computational and experimental methods to characterize polymer membranes in different ionic forms
+  * Integrate a next-generation density functional into the Materials Project database
+
+  """
+
 
 [[experience]]
   title = "Senior Engineering Research Consultant"
@@ -39,7 +40,12 @@ date_format = "Jan 2006"
   location = "Seattle, Washington"
   date_start = "2018-11-01"
   date_end = ""
-  description = """Guide development of a low-cost, ceramic ion exchange membrane.
+  description = """Provide membrane domain expertise a materials startup company. 
+
+  * Guided initial R&D to adapt low-cost ceramic ion exchange membranes for electrodialysis.
+  * Developed standard protocols for membrane characterization and data analysis.
+  * Trained and mentored two research scientists in electrochemical techniques.
+
 """
 
 [[experience]]
@@ -66,7 +72,7 @@ date_format = "Jan 2006"
   description = """Developed rechargeable batteries based on saltwater.
   
   * Invented and reduced to practice a novel energy storage technology based on saltwater
-  * Worked with co-founder and two MBA students to analyze system cost-effectiveness relative to market opportunity
+  * Worked with co-founder and two MBA students to analyze system cost-effectiveness and feasibility
   * Oversaw design, materials selection, fabrication, and testing of three laboratory-scale prototypes
   """
 
