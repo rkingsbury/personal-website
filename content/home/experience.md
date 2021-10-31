@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Berkeley, California"
   date_start = "2019-07-15"
   date_end = ""
-  description = """Conduct experimental and computational materials research
+  description = """Conduct experimental and computational materials research.
   
   * Develop software for high-throughput density functional theory and molecular dynamics simulations
   * Use computational and experimental methods to characterize polymer membranes in different ionic forms
@@ -40,11 +40,11 @@ date_format = "Jan 2006"
   location = "Seattle, Washington"
   date_start = "2018-11-01"
   date_end = ""
-  description = """Provide membrane domain expertise a materials startup company. 
+  description = """Provide membrane domain expertise a materials startup company.
 
-  * Guided initial R&D to adapt low-cost ceramic ion exchange membranes for electrodialysis.
-  * Developed standard protocols for membrane characterization and data analysis.
-  * Trained and mentored two research scientists in electrochemical techniques.
+  * Guided initial R&D to adapt low-cost ceramic ion exchange membranes for electrodialysis
+  * Developed standard protocols for membrane characterization and data analysis
+  * Trained and mentored two research scientists in electrochemical techniques
 
 """
 
