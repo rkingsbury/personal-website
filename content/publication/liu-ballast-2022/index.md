@@ -1,0 +1,13 @@
+---
+title: "Effect of osmotic ballast properties on the performance of a concentration gradient battery"
+date: 2022-01-15
+publishDate: 2022-01-17
+authors: ["Fei Liu", "Ryan Kingsbury", "Jeromy J. Rech", "Wei You", "Orlando Coronell"]
+publication_types: ["2"]
+abstract: "A concentration gradient battery (CGB) is an energy storage system comprised of a series of concentrated and dilute salt solution compartments, separated by ion exchange membranes (IEMs). The battery is charged by electrodialysis (ED), which increases the concentration gradient between these solutions, and discharged by reverse electrodialysis (RED), which allows these solutions to mix. In both ED and RED, water moves by osmosis from dilute to concentrated compartments, reducing the CGB faradaic and energy efficiency. A promising approach to mitigate osmosis is to use an osmotic ballast in the dilute solution to balance the osmotic pressure and reduce faradaic energy losses. The objective of this study was to investigate the impact of ballast properties (i.e., size, structure, end-group) on the faradaic and round-trip efficiency of the CGB. To accomplish this objective, we tested seven sugar and five glycol compounds as osmotic ballasts in a closed-loop cell. Results show that ballasts with high molecular weight generally resulted in higher faradaic efficiency and lower water transport compared with low molecular weight ballasts. Data also indicates that ballast with a cyclic structure (instead of linear), non-planar structure (instead of planar), and lower number of methyl end groups led to lower water transport. Of all ballasts tested, sucrose performed best in terms of reducing non-ideal water transport (by 109%) and enhancing both faradaic and round-trip efficiencies (from 47.4% to 77.7% and 25.5% to 38.1%, respectively) compared with the non-ballasted CGB. Our results contribute to fundamental understanding of the impact of solute properties on water and small organic molecule transport in ion exchange membranes and indicate that ballasted CGBs can be further improved through development of optimized ballasts and selection of optimum membrane-ballast pairs. The improved understanding of ballast impact on CGB performance could be used for evaluation of potential ballast benefits in other membrane-based systems that may be impacted by osmosis such as the acid-base flow battery, waste heat recovery using RED, ED purification processes, osmotically assisted processes, and redox flow batteries."
+featured: false
+publication: "*Water Research*"
+url_pdf: "https://doi.org/10.1016/j.watres.2022.118076"
+doi: "10.1016/j.watres.2022.118076"
+---
+
