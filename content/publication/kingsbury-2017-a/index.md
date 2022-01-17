@@ -8,6 +8,7 @@ abstract: "“Blue energy” technologies such as reverse electrodialysis (RED) 
 featured: false
 publication: "*Journal of Membrane Science*"
 tags: ["Blue energy", "Ion exchange membranes", "Natural organic matter", "Reverse electrodialysis", "Salinity gradient energy"]
+url_pdf: "publications/kingsbury-publication-baseline-study-2017.pdf"
 doi: "10.1016/j.memsci.2017.07.038"
 ---
 

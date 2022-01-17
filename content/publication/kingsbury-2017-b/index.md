@@ -8,7 +8,7 @@ abstract: "Aqueous processes for energy storage and conversion based on reverse 
 featured: false
 publication: "*Environmental Science and Technology*"
 tags: ["energy storage", "reverse electrodialysis"]
-url_pdf: "http://pubs.acs.org/doi/abs/10.1021/acs.est.6b03720"
+url_pdf: "publications/kingsbury-publication-osmotic-ballast-2017.pdf"
 doi: "10.1021/acs.est.6b03720"
 ---
 

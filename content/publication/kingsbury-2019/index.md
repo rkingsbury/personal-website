@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*ACS Applied Materials and Interfaces*"
-url_pdf: "https://pubs.acs.org/doi/full/10.1021/acsami.9b11784"
+url_pdf: "publications/kingsbury-publication-microstructure-2018-correction.pdf"
 doi: "10.1021/acsami.9b11784"
 ---
 
