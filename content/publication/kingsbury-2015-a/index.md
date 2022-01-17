@@ -8,7 +8,7 @@ abstract: "Reverse electrodialysis has long been recognized as a tool for harnes
 featured: true
 publication: "*Journal of Membrane Science*"
 tags: ["AEM", "CEM", "ED", "Electrodialysis", "Energy storage", "Ion exchange", "OCV", "PD", "RED", "Reverse electrodialysis", "SOC", "Salinity gradient power", "anion exchange membrane", "cation exchange membrane", "electrodialysis or energy density", "energy storage", "open circuit voltage", "power density", "reverse electrodialysis", "state of charge"]
-url_pdf: "http://www.sciencedirect.com/science/article/pii/S0376738815300181"
+url_pdf: "kingsbury-publication-conc-battery.pdf"
 doi: "10.1016/j.memsci.2015.06.050"
 ---
 
