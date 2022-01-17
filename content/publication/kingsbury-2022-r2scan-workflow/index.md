@@ -1,6 +1,6 @@
 ---
 title: "Performance comparison of r2SCAN and SCAN metaGGA density functionals for solid materials via an automated, high-throughput computational workflow"
-date: 2021-09-13
+date: 2022-09-07
 publishDate: 2021-10-30T01:35:16.056841Z
 authors: ["Ryan S. Kingsbury", "Ayush Gupta", "Christopher J. Bartel", "Shyam Dwaraknath", "Matthew Horton", "Kristin A. Persson"]
 publication_types: ["3"]

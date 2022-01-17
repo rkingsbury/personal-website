@@ -8,6 +8,5 @@ abstract: "Global estimates of electricity generation from coastal salinity grad
 featured: false
 publication: "*Desalination*"
 url_pdf: "https://dx.doi.org/10.1016/j.desal.2020.114562"
-doi: "10.1016/j.desal.2020.14562"
+doi: "10.1016/j.desal.2020.114562"
 ---
-
