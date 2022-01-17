@@ -9,6 +9,6 @@ featured: false
 publication: "*Journal of Membrane Science*"
 tags: ["AEM", "CEM", "Electrodialysis", "Ion exchange", ]
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0376738817332039?via%3Dihub"
-doi: "10.1016/j.memsci.2015.06.050"
+doi: "10.1016/j.memsci.2018.02.050"
 ---
 
