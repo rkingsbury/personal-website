@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Incoming Assistant Professor (2023)
 
 # Organizations/Affiliations
 organizations:
-- name: Persson Group, Lawrence Berkeley National Laboratory
-  url: "https://perssongroup.lbl.gov/people.html"
+- name: Department of Civil and Environmental Engineering, Princeton University
+  url: "https://cee.princeton.edu/"
+- name: Andlinger Center for Energy and the Environment, Princeton University
+  url: "https://acee.princeton.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ryan is an engineer and scientist working to accelerate development of advanced materials for water purification and clean energy production. 
