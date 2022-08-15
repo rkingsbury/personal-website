@@ -79,5 +79,4 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-
-I am an engineer and scientist researching materials for more efficient water and energy production. I have expertise in water treatment, membrane desalination, ion exchange, and electrochemistry, and am determined to accelerate development of these technologies by combining smart experimental design with cutting-edge computational tools.
+My research aims to accelerate the development of electrochemical technologies for clean water and clean energy production by advancing fundamental understanding of ion-selective materials such as membranes and electrodes. These materials preferentially absorb or transport charged particles like Lithium or Sodium ions and are found in numerous environmental technologies including water desalination systems, fuel cells, electrolyzers, and flow batteries. I seek to develop a molecular-level understanding of the factors that make these materials selective to certain ions, and use that knowledge to engineer higher-performing materials. My multi-scale research approach integrates electrochemical and thermodynamic materials characterization methods, first principles simulations, and device testing to understand how materials behave under a wide variety of conditions.
